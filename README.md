@@ -1,5 +1,5 @@
-# Hi 👋, I'm [Arjun Sivasankar]
-A passionate Data Science enthusiast from [India], studying at TU Dresden.
+# Hi 👋, I'm Arjun Sivasankar
+A passionate Data Science enthusiast from India, studying at TU Dresden.
 
 - 🌱 I’m currently learning Gen AI tools, Pytorch, OpenCV, NLTK
 - 👨‍💻 All of my projects are available at [https://github.com/yourusername](https://github.com/Arjun-Sivasankar)
